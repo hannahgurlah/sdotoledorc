@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 160 160" role="img" aria-label="Member photo placeholder">
+  <defs>
+    <linearGradient id="bgGrad" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stopColor="#fff1f2" />
+      <stop offset="100%" stopColor="#fecdd3" />
+    </linearGradient>
+  </defs>
+  <rect width="160" height="160" rx="28" fill="url(#bgGrad)" />
+  <circle cx="80" cy="60" r="24" fill="#be123c" fillOpacity="0.24" stroke="#be123c" strokeWidth="2.5" strokeOpacity="0.45" />
+  <path
+    d="M36 134 C36 106 56 92 80 92 C104 92 124 106 124 134"
+    fill="#be123c"
+    fillOpacity="0.2"
+    stroke="#be123c"
+    strokeWidth="2.5"
+    strokeOpacity="0.45"
+    strokeLinecap="round"
+  />
+</svg>
